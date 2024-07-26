@@ -1,0 +1,140 @@
+{
+    "title": "Sagar Rumandla",
+    "header": {
+      "name": "Sagar Rumandla",
+      "role": "Software Engineer",
+      "bio": "I am a passionate Java Developer with a proven ability to build and develop high-quality backend applications. I have experience in creating efficient RESTful APIs using Java and Spring Boot, ensuring they work well with frontend systems. I enjoy working in teams to deliver solutions that meet user needs and continuously seek to learn and grow in my field."
+    },
+    "skills": {
+      "languages": ["Python", "Java", "SQL"],
+      "frameworks": ["Spring Boot", "PySpark"],
+      "databases": ["MySQL", "SQL Server"],
+      "cloud": ["Azure"]
+    },
+    "experience": [
+      {
+        "position": "Senior Software Engineer at Capgemini",
+        "duration": "December 2021 - Present",
+        "projects": [
+          {
+            "title": "GenAI Prompt Generation POC",
+            "role": "Software Engineer",
+            "description": "For an internal Capgemini POC, I executed prompt generation using GenAI, Python, and Streamlit. I completed training in GenAI and successfully delivered proof-of-concept tasks, collaborating with teams on prompt processing solutions."
+          }
+        ]
+      },
+      {
+        "position": "Software Engineer at Capgemini",
+        "duration": "December 2021 - Present",
+        "projects": [
+          {
+            "title": "890 Enterprise",
+            "role": "Backend Java Developer",
+            "description": "At 890 by Capgemini, I developed a scalable REST API using Java Spring Boot, ensuring seamless integration between frontend and backend components. I configured data through XML and implemented crucial security measures to enhance system robustness. I collaborated closely with frontend developers to ensure smooth communication and data exchange."
+          },
+          {
+            "title": "MeduGlobal",
+            "role": "Backend Java Developer",
+            "description": "In the MeduGlobal project, I created a robust REST API with Java Spring Boot for a student portal offering college applications, job opportunities, scholarships, and loans. I managed data through XML and implemented JUnit test cases to ensure comprehensive testing and bug fixes. I worked closely with frontend developers to facilitate seamless integration."
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "CRUD Application",
+        "technologies": ["Java", "Spring Boot", "SQL"],
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda provident in quam magnam sint id consequatur ipsam quasi. Maiores optio error iure quaerat hic odit? Eligendi suscipit id nobis nesciunt.",
+        "links": {
+          "source": "#",
+          "visit": "#"
+        }
+      },
+      {
+        "title": "Another CRUD Application",
+        "technologies": ["Java", "Spring Boot", "SQL"],
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda provident in quam magnam sint id consequatur ipsam quasi. Maiores optio error iure quaerat hic odit? Eligendi suscipit id nobis nesciunt.",
+        "links": {
+          "source": "#",
+          "visit": "#"
+        }
+      }
+    ],
+    "achievements": [
+      "Won First prize in district level MKCL talent fest for C language held by Maharashtra Govt",
+      "Won third prize in Dexter Innofest coding competition in C language held by Solapur University"
+    ],
+    "hobbies": [
+      {
+        "title": "Playing Chess",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda provident in quam magnam sint id consequatur ipsam quasi. Maiores optio error iure quaerat hic odit? Eligendi suscipit id nobis nesciunt."
+      },
+      {
+        "title": "Listening to music",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda provident in quam magnam sint id consequatur ipsam quasi. Maiores optio error iure quaerat hic odit? Eligendi suscipit id nobis nesciunt."
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Python Bootcamp",
+        "provider": "Udemy"
+      },
+      {
+        "title": "Programming with Python",
+        "provider": "Coursera - Meta"
+      },
+      {
+        "title": "Python Fundamentals",
+        "provider": "Udemy"
+      },
+      {
+        "title": "Introduction to GenAI",
+        "provider": "Capgemini - Learning"
+      },
+      {
+        "title": "Agile Software Development",
+        "provider": "Coursera"
+      },
+      {
+        "title": "Introduction to Data Engineering",
+        "provider": "Coursera - IBM"
+      },
+      {
+        "title": "OCEAN Certification (Python) Level 1 (Beginner)",
+        "provider": "OCEAN"
+      },
+      {
+        "title": "OCEAN Certification (SQL) Level 1 (Beginner)",
+        "provider": "OCEAN"
+      },
+      {
+        "title": "Training in Python, PySpark, Big Data",
+        "provider": "Capgemini Training"
+      }
+    ],
+    "footer": {
+      "socialLinks": [
+        {
+          "platform": "LinkedIn",
+          "url": "#",
+          "icon": "./assets/icons/LinkedIn.png"
+        },
+        {
+          "platform": "GitHub",
+          "url": "#",
+          "icon": "./assets/icons/GitHub.png"
+        },
+        {
+          "platform": "Instagram",
+          "url": "#",
+          "icon": "./assets/icons/Instagram.png"
+        },
+        {
+          "platform": "TwitterX",
+          "url": "#",
+          "icon": "./assets/icons/TwitterX.png"
+        }
+      ]
+    }
+  }
+  
